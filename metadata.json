@@ -1,0 +1,6 @@
+{
+  "name": "Programa de Predicación - Congregación Oeste",
+  "description": "Calendario y programa de predicación de la congregación con vista del día de hoy, territorios, capitanes y gestión mensual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
